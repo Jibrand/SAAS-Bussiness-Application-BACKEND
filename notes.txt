@@ -1,0 +1,25 @@
+ 
+remove arrow //reject
+shadow on tabale scroll bar also //reject
+icon cloumn glith  //reject
+rfq dashboard   //reject
+how to filter with date 
+how to add true date
+add button BsPlusCircle //reject
+reverse the toggle //reject
+rplace hello dv with rfq manager //reject
+{Select from the below elements that are required to create the RFQ.} //reject
+
+functional
+setting
+chat
+ invoice
+
+
+
+
+
+
+
+ ------------------------------------------------------------------------------------------------------
+ add no of rq vendor in indexrfq
